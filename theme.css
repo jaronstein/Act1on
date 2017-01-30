@@ -1,6 +1,5 @@
 body {
-  padding-top: 70px;
-  padding-bottom: 30px;
+
 }
 
 .theme-dropdown .dropdown-menu {
@@ -15,4 +14,8 @@ body {
 
 .theme-showcase .navbar .container {
   width: auto;
+}
+#missionJumbo{
+  background-image: url('images\bigstock-Capitol-Hill-at-sunset-7148659.jpg');
+
 }
