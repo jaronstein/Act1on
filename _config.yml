@@ -2,7 +2,7 @@
 title:               ACT1ON
 tagline:             Helping you take one political action a day to change the world
 description:
-baseurl:            #"/Lagrange"
+baseurl:            #"/inde"
 url:                #"https://lenpaul.github.io"
 github:
   url:               #"https://lenpaul.github.io/Lagrange"
@@ -15,6 +15,7 @@ author:
   facebook:          "act1on"
   linkedin:          "jaronstein"
 paginate:            5
+paginate-path:       Actions/page:num
 
 
 # Build settings
