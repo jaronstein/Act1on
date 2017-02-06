@@ -7,7 +7,8 @@ image:
   feature: images\abbott.jpg
   teaser: images\abbott.jpg
   credit:
-  creditlink:
+  creditlink: ""
+---
 
 The Texas Legislature is currently focusing its energies on budget hearings and emergency items designated by the Governor at last week's State of the State address which you can see in full detail here: https://www.texastribune.org/2017/01/31/state-state-abbott-lays-out-predictable-agenda/
 
