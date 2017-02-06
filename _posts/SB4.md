@@ -1,7 +1,7 @@
 layout: post
 title: "Texas Action: Voice your opinion on SB4"
 categories: Actions
-tags: [Actions, Texas, Imigraion]
+tags: [Actions, Texas, Immigration]
 image:
   feature: images\abbott.jpg
   teaser: images\abbott.jpg
